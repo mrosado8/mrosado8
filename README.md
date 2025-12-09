@@ -1,5 +1,7 @@
 ## Hi there 👋
 🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐
+![ClipWindowsGIF](https://github.com/user-attachments/assets/e571329e-e75e-4912-acbc-21dad63a8b01)
+
 ## About me 
 
 **mrosado8/mrosado8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
