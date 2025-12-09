@@ -1,4 +1,4 @@
-# Helloo
+# Holaa
 
 🔭 I’m currently working on optimizing network infrastructure and improving cybersecurity protocols.
 
@@ -17,5 +17,5 @@
 
 ⚡ Fun fact: I once optimized a network so efficiently that our office Wi-Fi became faster than my home connection!
 
-# My favorite Tools 
+# Mis herramientas favoritas
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="69" height="69" /></div>
