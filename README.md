@@ -6,14 +6,19 @@
 ## Base de dades
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" height="100" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="100" height="100" /></div>
 
+🔭 I’m currently working on optimizing network infrastructure and improving cybersecurity protocols.
 
-- 🔭 I’m currently working on ...
-- ![TheRockTheRockSusGIF](https://github.com/user-attachments/assets/83950915-136a-4041-b174-36425561d844)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ![MolorantRichCkazGIF](https://github.com/user-attachments/assets/a0d2f7cb-f374-46a3-8831-e8e197fcd4f1)
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌱 I’m currently learning cloud networking, SD-WAN, and advanced firewall configurations.
+
+👯 I’m looking to collaborate on network automation projects and security audits.
+
+🤔 I’m looking for help with troubleshooting complex network issues and staying updated on emerging technologies.
+
+💬 Ask me about routing, switching, VPNs, Wi-Fi optimization, and network security best practices.
+
+📫 How to reach me: email@example.com
+ or connect on LinkedIn.
+
+😄 Pronouns: he/him | she/her | they/them
+
+⚡ Fun fact: I once optimized a network so efficiently that our office Wi-Fi became faster than my home connection!
