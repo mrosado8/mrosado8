@@ -1,11 +1,5 @@
-## Hi there 👋 ![ClipWindowsGIF](https://github.com/user-attachments/assets/e571329e-e75e-4912-acbc-21dad63a8b01)
-🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐🌐
+## Bon dia  👋
 ![ClipWindowsGIF](https://github.com/user-attachments/assets/e571329e-e75e-4912-acbc-21dad63a8b01)
-
-
-**mrosado8/mrosado8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - ![TheRockTheRockSusGIF](https://github.com/user-attachments/assets/83950915-136a-4041-b174-36425561d844)
