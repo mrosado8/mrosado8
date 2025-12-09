@@ -1,7 +1,7 @@
 ## Bon dia  👋
 ![ClipWindowsGIF](https://github.com/user-attachments/assets/e571329e-e75e-4912-acbc-21dad63a8b01)
 
-#My favorite Tools 
+# My favorite Tools 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /></div>
 - 🔭 I’m currently working on ...
 - ![TheRockTheRockSusGIF](https://github.com/user-attachments/assets/83950915-136a-4041-b174-36425561d844)
