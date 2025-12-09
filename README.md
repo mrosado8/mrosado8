@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy [MARCO]
 
 ## 🔭 Actualmente estoy trabajando en
 Optimizar **infraestructura de servidores**, implementar **automatización de tareas** y mejorar la **ciberseguridad** en entornos corporativos.
@@ -30,7 +30,7 @@ Optimizar **infraestructura de servidores**, implementar **automatización de ta
 - LinkedIn: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)  
 
 ## 😄 Pronombres
-Él / Ella / Elle  
+Elle  
 
 ## ⚡ Dato curioso
 - Una vez migré **200+ servidores** a un nuevo datacenter sin que se notara tiempo de inactividad.  
