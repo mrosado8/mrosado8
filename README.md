@@ -29,8 +29,6 @@ Optimizar **infraestructura de servidores**, implementar **automatización de ta
 - Correo: [correo@ejemplo.com](mailto:correo@ejemplo.com)  
 - LinkedIn: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)  
 
-## 😄 Pronombres
-Elle  
 
 ## ⚡ Dato curioso
 - Una vez migré **200+ servidores** a un nuevo datacenter sin que se notara tiempo de inactividad.  
@@ -54,7 +52,3 @@ Elle
 ---
 
 ¡Gracias por visitar mi perfil! 🚀
-
-
-# Mis herramientas favoritas
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="69" height="69" /></div>
