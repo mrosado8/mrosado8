@@ -1,21 +1,21 @@
 # Holaa
 
-🔭 I’m currently working on optimizing network infrastructure and improving cybersecurity protocols.
+🔭 Actualmente estoy trabajando en optimizar la infraestructura de redes y mejorar los protocolos de ciberseguridad.
 
-🌱 I’m currently learning cloud networking, SD-WAN, and advanced firewall configurations.
+🌱 Actualmente estoy aprendiendo redes en la nube, SD-WAN y configuraciones avanzadas de firewall.
 
-👯 I’m looking to collaborate on network automation projects and security audits.
+👯 Busco colaborar en proyectos de automatización de redes y auditorías de seguridad.
 
-🤔 I’m looking for help with troubleshooting complex network issues and staying updated on emerging technologies.
+🤔 Busco ayuda con resolver problemas complejos de red y mantenerme al día con tecnologías emergentes.
 
-💬 Ask me about routing, switching, VPNs, Wi-Fi optimization, and network security best practices.
+💬 Pregúntame sobre enrutamiento, switching, VPNs, optimización de Wi-Fi y buenas prácticas de seguridad de redes.
 
-📫 How to reach me: email@example.com
- or connect on LinkedIn.
+📫 Cómo contactarme: correo@ejemplo.com
+ o LinkedIn.
 
-😄 Pronouns: he/him | she/her | they/them
+😄 Pronombres: él/ella/elle
 
-⚡ Fun fact: I once optimized a network so efficiently that our office Wi-Fi became faster than my home connection!
+⚡ Dato curioso: Una vez optimicé una red de oficina tanto que el Wi-Fi quedó más rápido que mi conexión en casa.
 
 # Mis herramientas favoritas
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="69" height="69" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="69" height="69" /></div>
