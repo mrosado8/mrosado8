@@ -3,6 +3,10 @@
 ![ClipWindowsGIF](https://github.com/user-attachments/assets/e571329e-e75e-4912-acbc-21dad63a8b01)
 
 ## About me 
+![MuaKissGIF](https://github.com/user-attachments/assets/36dc991e-b7f4-4435-af8c-0bb6509df6cf)
+![MolorantRichCkazGIF](https://github.com/user-attachments/assets/a0d2f7cb-f374-46a3-8831-e8e197fcd4f1)
+![TheRockTheRockSusGIF](https://github.com/user-attachments/assets/83950915-136a-4041-b174-36425561d844)
+
 
 **mrosado8/mrosado8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
